@@ -1,4 +1,10 @@
 body
+{
+    background-image: url(psihomodopop.png);
+    background-position-y: top;
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
 #mapa li{
     display:inline; /*postavlja popis u redak*/
 }

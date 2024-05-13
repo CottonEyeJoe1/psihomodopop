@@ -1,0 +1,11 @@
+body
+#bend li a, #bend li a:visited{
+    display: block;
+    text-decoration: none;
+    margin: 1px;
+    padding: 2px 0px 2px 5px;
+    width: 100px;
+    border-style: solid;
+    border-color: blue;
+    border-left-width: 6px;
+}
