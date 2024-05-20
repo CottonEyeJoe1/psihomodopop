@@ -1,5 +1,5 @@
 body
-#bend li a, #bend li a:visited{
+#bend a, #bend a:visited{
     display: block;
     text-decoration: none;
     margin: 1px;
