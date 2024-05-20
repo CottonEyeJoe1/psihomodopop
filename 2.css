@@ -1,6 +1,6 @@
 body
 #bend table tr, td{
-    border-width: 1px;
+    border-width: 2px;
     border-style: solid;
     border-color: blue;
     border-style: double;
